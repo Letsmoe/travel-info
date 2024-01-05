@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "ceeb32c1c0224721",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b68b9400a002dfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d289e33799cc3811",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "USA/North Slope Borough.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "40ce8e559b34f630",
+    "type": "split",
+    "children": [
+      {
+        "id": "d70064e0d565514d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "def6b105011b40a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c971ddf47c378ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "739bf06951537894",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "befc0a260d912c5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5306bfbcefe2271",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b24a76f370fad6df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "USA/North Slope Borough.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "580aa952dbb05f63",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "USA/North Slope Borough.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "964631ef596fa56b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0b8ee091a249901f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "USA/North Slope Borough.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d289e33799cc3811",
+  "lastOpenFiles": [
+    "USA/Buying a gun.md",
+    "USA/North Slope Borough.md",
+    "Untitled.md",
+    "Pasted image 20240105144653.png",
+    "USA"
+  ]
+}
